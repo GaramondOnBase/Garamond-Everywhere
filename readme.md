@@ -15,7 +15,7 @@ This project is copypasta of [r4topunk](https://warpcast.com/r4topunk/0x1036d6cd
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/garamond/garamond-everywhere.git
+git clone https://github.com/garamondonbase/garamond-everywhere.git
 cd comic-sans-everywhere
 ```
 
