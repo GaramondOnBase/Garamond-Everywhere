@@ -2,8 +2,7 @@
 
 This Chrome extension replaces the font on all web pages with the beautiful **EB Garamond**. Bring style and history to the web, one page at a time!
 
-This project is copypasta of [r4topunk](https://warpcast.com/r4topunk/0x1036d6cd)'s [code](https://github.com/r4topunk/comic-sans-everywhere).
-The above project is a remix from [jtgi](https://warpcast.com/jtgi/0xdf3c8658)'s code.
+This project is copypasta of [r4topunk](https://warpcast.com/r4topunk/0x1036d6cd)'s [code](https://github.com/r4topunk/comic-sans-everywhere). That project is a remix from [jtgi](https://warpcast.com/jtgi/0xdf3c8658)'s code.
 
 ## Features
 
