@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Garamond Everywhere",
+  "version": "1.0",
+  "description": "Applies EB Garamond font to all web pages.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
